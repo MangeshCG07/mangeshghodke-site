@@ -32,6 +32,10 @@ body{
     color: white;
 }
 
+.padding-md{
+    padding-top: 4;
+}
+
 .link-secondary{
     color: var(--primary-color);
     border-radius: 0.5rem;
